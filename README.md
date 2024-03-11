@@ -21,3 +21,4 @@ docker-compose down
 docker-compose up  
 docker-compose build   
 Or simply import the project & can run the app on IDE.   
+Run swagger up at : http://localhost:80/swagger-ui.html
