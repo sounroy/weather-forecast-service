@@ -14,10 +14,10 @@
 #OpenWeatherAPI key demands calls-calls subscription with payment card details to fetch data hence defaulting to # # default data.
 
 # How to execute
-#System should have docker installed.
-#git clone the repo
-#mvn clean install
-#docker-compose down
-#docker-compose up
-#docker-compose build
-#Or simply import the project & can run the app on IDE.
+#System should have docker installed.  
+#git clone the repo   
+#mvn clean install  
+#docker-compose down  
+#docker-compose up  
+#docker-compose build   
+#Or simply import the project & can run the app on IDE.   
