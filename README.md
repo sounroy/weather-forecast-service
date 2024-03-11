@@ -17,9 +17,9 @@ OpenWeatherAPI key demands calls-calls subscription with payment card details to
 System should have docker installed.  
 git clone the repo   
 mvn clean install  
-docker-compose down  
-docker-compose build 
-docker-compose up  
+docker-compose down      
+docker-compose build   
+docker-compose up      
   
 Or simply import the project & can run the app on IDE.   
 Run swagger up at : http://localhost:80/swagger-ui.html
