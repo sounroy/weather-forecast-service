@@ -19,7 +19,8 @@ git clone the repo
 mvn clean install  
 docker-compose down      
 docker-compose build   
-docker-compose up      
+docker-compose up 
+Run swagger up at : http://localhost:80/swagger-ui.html
   
 Or simply import the project & can run the app on IDE.   
-Run swagger up at : http://localhost:80/swagger-ui.html
+Run swagger up at : http://localhost:8080/swagger-ui.html
